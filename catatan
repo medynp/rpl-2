@@ -1,0 +1,18 @@
+Iguro-Obanai-Sebagai-INTJ-Kepribadian-MBTI
+
+Iguro Obanai
+
+Abdan | November
+
+Obanai Iguro sebagai INTJ cenderung menjadi sosok yang serius, strategis, dan terencana. Sebagai introvert, dia lebih suka bekerja sendiri dan menjaga perasaannya untuk dirinya sendiri. Dengan kecenderungan intuitif, dia mampu melihat gambaran besar dan merancang langkah-langkah strategis untuk menghadapi ancaman. Pendekatannya yang logis dan rasional dalam pengambilan keputusan mencerminkan sifat berpikirnya yang analitis, sementara sikapnya yang terstruktur dan patuh pada aturan menunjukkan sifat menilainya yang kuat.
+
+
+Mitsuri-Kanroji-Sebagai-ESFJ-Kepribadian-MBTI
+
+Mitsuri Kanroji
+
+Alyne | Mei
+
+Mitsuri Kanroji sebagai ESFJ adalah sosok yang ceria, sosial, dan penuh perhatian. Sebagai ekstrovert, dia menikmati berinteraksi dengan orang lain dan sering menunjukkan empati serta kepedulian terhadap kebutuhan mereka. Dengan kecenderungan sensing, Mitsuri fokus pada detail praktis dan pengalaman langsung. Keputusan dan tindakannya didorong oleh perasaan dan pertimbangan emosional, sementara sikap menilainya yang terstruktur membuatnya nyaman dengan rutinitas dan perencanaan yang jelas.
+
+App\Models\blog::create(['title'=>'Judul Artikel 4', 'author'=>'abdan', 'slug'=>'Artikel-MBTI-4', 'blog'=>'INTJ']);
